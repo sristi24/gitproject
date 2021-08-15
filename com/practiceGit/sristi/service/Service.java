@@ -12,4 +12,8 @@ public class Service {
         return null;
     }
 
+    public static double serviceCallDouble () {
+        return 0.0;
+    }
+
 }
